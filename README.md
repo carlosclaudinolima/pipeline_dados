@@ -1,1 +1,2 @@
 # pipeline_dados
+Este repositório contém o meu primeiro pipeline de dados, simulando o processamento mensal dos dados de duas empresas que se fundiram, utilizando laptop jupyter e bibliotecas json e csv do python para exploração, transformação e salvamento dos dados, bem como a tecnologia wsl para execução de ambiente Linux no Windows e virtualização do ambiente de desenvolvimento. Também é utilizado o paradigma de orientação a objetos em python.
