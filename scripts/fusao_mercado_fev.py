@@ -1,5 +1,3 @@
-import json as jn
-import csv
 from processamento_dados import Dados
 
 url_empresa_a = 'data_raw/dados_empresaA.json'
